@@ -12,7 +12,8 @@ This quiz game is designed to increase learning by requiring students to write a
 * Created a Section component in App.jsx
 * Created components  SearchInput and Weather 
 * Iniliaze states  
-* use lifCycle Method componentDidMount to  get  defalut data
+* Use lifCycle Method componentDidMount to  get  defalut data
+* Use Open Weather Api to get  forcast weather
 * Created  a function searchWeather to search weather 
 * Created  a function to show popup window if data not found
 
