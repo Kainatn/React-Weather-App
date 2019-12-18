@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live preview](https://my-app.kk2111436.now.sh).
 
 ## Available Scripts
 
