@@ -1,6 +1,7 @@
 ### React Weather App
 ##### Live preview  [Weather App ](https://my-app.kk2111436.now.sh).
- 
+ ![](weather.png)
+
  ---
   ## About
   
